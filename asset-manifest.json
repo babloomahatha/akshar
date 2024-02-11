@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/akshar/static/css/main.f855e6bc.css",
+    "main.js": "/akshar/static/js/main.95e890a8.js",
+    "static/js/592.efb31768.chunk.js": "/akshar/static/js/592.efb31768.chunk.js",
+    "index.html": "/akshar/index.html",
+    "main.f855e6bc.css.map": "/akshar/static/css/main.f855e6bc.css.map",
+    "main.95e890a8.js.map": "/akshar/static/js/main.95e890a8.js.map",
+    "592.efb31768.chunk.js.map": "/akshar/static/js/592.efb31768.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.95e890a8.js"
+  ]
+}
